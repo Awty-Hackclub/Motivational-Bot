@@ -8,7 +8,11 @@ A Discord bot that serves motivation quotes. (submission to the CodeHax 2020 hac
 2. In, `config.yaml`, create this key:
 
 ```yaml
-token: '' 
+token: ""
 ```
 
-3. Run `python3 main.py`
+3. Run ``
+
+## Commands
+
+`!motivation` _Returns motivational quotes in a rich embed_
