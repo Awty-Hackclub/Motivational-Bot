@@ -15,7 +15,7 @@ token: ""
 
 ## How to kill the bot
 
-`sudo killall -p dicker`
+`sudo killall -p docker`
 
 ## Commands
 
