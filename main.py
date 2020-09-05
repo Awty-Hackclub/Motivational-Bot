@@ -16,9 +16,7 @@ async def motivation(ctx):
         description=random.choice(open('quotes.txt').readlines()),
         colour=discord.Colour.red()
     )
-
+    
     await ctx.send(embed=embed)
-
-
 
 bot.run(data['token'])
