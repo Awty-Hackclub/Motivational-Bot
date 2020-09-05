@@ -12,3 +12,8 @@ token: ''
 ```
 
 3. Run `python3 main.py`
+
+## Commands
+
+`!motivation` -> Returns motivational quotes in a rich embed
+
