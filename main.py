@@ -17,7 +17,7 @@ async def motivation(ctx):
         colour=discord.Colour.red()
     )
 
-    await bot.say(embed=embed)
+    await ctx.send(embed=embed)
 
 
 
