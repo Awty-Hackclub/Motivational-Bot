@@ -17,10 +17,8 @@ async def motivation(ctx):
         colour=discord.Colour.red()
     )
 
-    message = await client.say(embed=embed)
+    await bot.say(embed=embed)
 
-    await bot.add_reaction(message, '\U+1F44D')
-    await bot.add_reaction(message, '\U+1F49D')
-    await bot.add_reaction(message, '\U+1F917')
+
 
 bot.run(data['token'])
