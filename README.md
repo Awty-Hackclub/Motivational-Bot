@@ -15,4 +15,4 @@ token: ""
 
 ## Commands
 
-`!motivation` _Returns motivational quotes in a rich embed_
+`!motivation` _Returns motivational quotes in a rich embed + a motivational GIF_
