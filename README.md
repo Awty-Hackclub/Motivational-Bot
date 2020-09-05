@@ -8,5 +8,5 @@ A Discord bot that serves motivation quotes. (submission to the CodeHax 2020 hac
 2. In, `config.yaml`, create this key:
 
 ```yaml
-token: ""
+token: '' 
 ```
