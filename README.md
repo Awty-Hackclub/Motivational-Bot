@@ -8,12 +8,11 @@ A Discord bot that serves motivation quotes. (submission to the CodeHax 2020 hac
 2. In, `config.yaml`, create this key:
 
 ```yaml
-token: '' 
+token: ""
 ```
 
-3. Run `./run.sh`
+3. Run ``
 
 ## Commands
 
-`!motivation` *Returns motivational quotes in a rich embed*
-
+`!motivation` _Returns motivational quotes in a rich embed_
