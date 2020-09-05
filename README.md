@@ -13,6 +13,10 @@ token: ""
 
 3. Run `./run.sh`
 
+## How to kill the bot
+
+`sudo killall -p dicker`
+
 ## Commands
 
 `!motivation` _Returns motivational quotes in a rich embed + a motivational GIF_
