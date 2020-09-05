@@ -4,6 +4,6 @@ WORKDIR /app
 
 COPY . . 
 
-RUN pip3 install discord 
+RUN pip3 install discord pyyaml
 
-CMD python3 main.py
+CMD python3 main.py 
