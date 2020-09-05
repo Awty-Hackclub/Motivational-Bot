@@ -10,3 +10,5 @@ A Discord bot that serves motivation quotes. (submission to the CodeHax 2020 hac
 ```yaml
 token: '' 
 ```
+
+3. Run `python3 main.py`
