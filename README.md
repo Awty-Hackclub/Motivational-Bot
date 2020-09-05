@@ -15,5 +15,5 @@ token: ''
 
 ## Commands
 
-`!motivation` -> Returns motivational quotes in a rich embed
+`!motivation` *Returns motivational quotes in a rich embed*
 
